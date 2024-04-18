@@ -1,0 +1,101 @@
+College Name,Location,Weather,Public/Private,Population Size,Tuition Preference,Orientation
+University 1,Urban,Sunny,Public,Small,High,STEM
+University 2,Rural,Sunny,Private,Small,High,Liberal Arts
+University 3,Rural,Mild,Public,Medium,High,STEM
+University 4,Urban,Mild,Private,Large,High,Liberal Arts
+University 5,City,Snowy,Public,Small,High,Liberal Arts
+University 6,Urban,Snowy,Private,Medium,High,Liberal Arts
+University 7,City,Sunny,Private,Small,High,STEM
+University 8,Rural,Mild,Private,Small,Low,Liberal Arts
+University 9,City,Sunny,Private,Large,High,Liberal Arts
+University 10,Rural,Mild,Public,Small,Low,STEM
+University 11,Urban,Snowy,Private,Medium,Low,Liberal Arts
+University 12,City,Sunny,Public,Medium,High,STEM
+University 13,Urban,Snowy,Private,Medium,Low,Liberal Arts
+University 14,Rural,Mild,Private,Small,High,Liberal Arts
+University 15,Urban,Sunny,Public,Medium,High,Liberal Arts
+University 16,Rural,Snowy,Private,Large,Low,STEM
+University 17,Urban,Snowy,Private,Small,Low,Liberal Arts
+University 18,Urban,Mild,Public,Small,Medium,Liberal Arts
+University 19,Urban,Sunny,Private,Medium,High,Liberal Arts
+University 20,Urban,Sunny,Public,Small,Low,STEM
+University 21,Rural,Sunny,Public,Large,Low,STEM
+University 22,City,Mild,Private,Large,Low,Liberal Arts
+University 23,City,Sunny,Public,Small,Low,STEM
+University 24,Urban,Snowy,Private,Large,High,Liberal Arts
+University 25,Rural,Sunny,Public,Large,Medium,Liberal Arts
+University 26,City,Snowy,Private,Large,Low,Liberal Arts
+University 27,Urban,Sunny,Private,Small,Medium,Liberal Arts
+University 28,Rural,Mild,Public,Large,Medium,STEM
+University 29,Rural,Sunny,Private,Small,Low,Liberal Arts
+University 30,City,Sunny,Private,Small,High,STEM
+University 31,Urban,Mild,Private,Small,Low,Liberal Arts
+University 32,Urban,Mild,Public,Medium,Low,STEM
+University 33,City,Snowy,Public,Small,Medium,STEM
+University 34,City,Mild,Private,Small,Low,Liberal Arts
+University 35,Urban,Snowy,Private,Small,High,Liberal Arts
+University 36,City,Mild,Private,Medium,High,Liberal Arts
+University 37,Urban,Mild,Public,Medium,Low,Liberal Arts
+University 38,City,Sunny,Private,Medium,Medium,Liberal Arts
+University 39,Urban,Snowy,Public,Small,High,Liberal Arts
+University 40,Rural,Snowy,Private,Small,Low,Liberal Arts
+University 41,Urban,Mild,Private,Medium,Medium,STEM
+University 42,Rural,Sunny,Public,Small,Medium,Liberal Arts
+University 43,City,Sunny,Public,Small,Medium,STEM
+University 44,Rural,Snowy,Private,Medium,High,STEM
+University 45,City,Sunny,Public,Small,Low,Liberal Arts
+University 46,Rural,Mild,Public,Small,High,STEM
+University 47,Rural,Mild,Public,Large,Medium,STEM
+University 48,Urban,Sunny,Private,Medium,Low,Liberal Arts
+University 49,Urban,Mild,Public,Small,High,STEM
+University 50,City,Snowy,Private,Large,Medium,STEM
+University 51,Rural,Snowy,Public,Large,High,Liberal Arts
+University 52,Urban,Sunny,Private,Medium,Low,STEM
+University 53,City,Mild,Public,Large,High,Liberal Arts
+University 54,Urban,Mild,Private,Medium,Medium,STEM
+University 55,City,Mild,Public,Small,Low,STEM
+University 56,City,Sunny,Private,Large,High,STEM
+University 57,Urban,Snowy,Public,Large,Low,Liberal Arts
+University 58,Urban,Mild,Public,Medium,Low,STEM
+University 59,Rural,Mild,Private,Large,Medium,Liberal Arts
+University 60,City,Sunny,Public,Small,Medium,Liberal Arts
+University 61,Urban,Sunny,Public,Large,Medium,Liberal Arts
+University 62,Rural,Snowy,Private,Small,Low,Liberal Arts
+University 63,Rural,Snowy,Public,Large,Low,Liberal Arts
+University 64,Rural,Mild,Private,Medium,Medium,STEM
+University 65,City,Sunny,Private,Large,High,Liberal Arts
+University 66,Rural,Sunny,Private,Medium,Medium,STEM
+University 67,Rural,Sunny,Private,Small,High,Liberal Arts
+University 68,Urban,Snowy,Public,Medium,Medium,Liberal Arts
+University 69,City,Mild,Private,Small,Medium,STEM
+University 70,City,Mild,Public,Small,Low,STEM
+University 71,Rural,Sunny,Public,Medium,High,STEM
+University 72,Rural,Mild,Public,Large,Medium,Liberal Arts
+University 73,Urban,Sunny,Public,Large,High,Liberal Arts
+University 74,Urban,Snowy,Public,Large,High,STEM
+University 75,Urban,Mild,Public,Medium,High,Liberal Arts
+University 76,City,Mild,Private,Small,Medium,Liberal Arts
+University 77,City,Sunny,Private,Small,High,STEM
+University 78,Urban,Mild,Public,Large,High,Liberal Arts
+University 79,Rural,Sunny,Private,Small,Medium,STEM
+University 80,Rural,Mild,Public,Medium,Low,STEM
+University 81,City,Snowy,Public,Large,High,STEM
+University 82,Urban,Mild,Private,Medium,Low,Liberal Arts
+University 83,Rural,Snowy,Public,Medium,High,Liberal Arts
+University 84,Urban,Sunny,Public,Large,Medium,Liberal Arts
+University 85,Urban,Snowy,Public,Large,High,STEM
+University 86,Urban,Sunny,Private,Large,High,Liberal Arts
+University 87,City,Snowy,Public,Medium,High,STEM
+University 88,Urban,Mild,Private,Small,High,STEM
+University 89,Urban,Sunny,Public,Large,Low,Liberal Arts
+University 90,Urban,Mild,Private,Small,Low,STEM
+University 91,Rural,Snowy,Private,Medium,Low,Liberal Arts
+University 92,Urban,Snowy,Public,Large,High,STEM
+University 93,Rural,Snowy,Private,Medium,High,Liberal Arts
+University 94,Urban,Sunny,Private,Large,Low,Liberal Arts
+University 95,Urban,Snowy,Private,Large,Low,Liberal Arts
+University 96,Urban,Sunny,Private,Medium,Low,STEM
+University 97,Urban,Sunny,Public,Small,High,Liberal Arts
+University 98,City,Sunny,Private,Medium,Medium,Liberal Arts
+University 99,Urban,Sunny,Public,Large,High,STEM
+University 100,Rural,Mild,Public,Medium,Medium,STEM

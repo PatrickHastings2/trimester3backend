@@ -1,0 +1,50 @@
+College Name,Location,Weather,Public/Private,Population Size,Tuition Preference,Orientation
+"University of California, Los Angeles",City,Sunny,Public,Large,High,General
+Massachusetts Institute of Technology,Urban,Mild,Private,Medium,High,STEM
+University of Chicago,Urban,Snowy,Private,Medium,High,Liberal Arts
+University of Michigan,City,Snowy,Public,Large,Medium,General
+Dartmouth College,Rural,Snowy,Private,Small,High,Liberal Arts
+Texas A&M University,Urban,Mild,Public,Large,Low,General
+New York University,Urban,Mild,Private,Large,High,General
+University of Virginia,Rural,Mild,Public,Medium,Medium,General
+Harvard University,Urban,Snowy,Private,Medium,High,Liberal Arts
+Stanford University,Suburban,Mild,Private,Large,High,STEM
+Yale University,Urban,Snowy,Private,Medium,High,Liberal Arts
+Princeton University,Suburban,Mild,Private,Small,High,Liberal Arts
+University of Pennsylvania,Urban,Snowy,Private,Large,High,General
+Columbia University,Urban,Snowy,Private,Large,High,General
+California Institute of Technology,Suburban,Mild,Private,Small,High,STEM
+Duke University,Suburban,Mild,Private,Large,High,General
+University of Notre Dame,City,Mild,Private,Medium,High,General
+Northwestern University,Suburban,Snowy,Private,Medium,High,General
+Vanderbilt University,Urban,Mild,Private,Medium,High,Liberal Arts
+Arizona State University,Urban,Mild,Public,Large,Low,General
+"University of California, San Diego",Suburban,Mild,Public,Large,High,STEM
+"University of California, Davis",Suburban,Mild,Public,Large,High,STEM
+University of Oregon,Urban,Mild,Public,Medium,Medium,Liberal Arts
+Florida State University,Urban,Mild,Public,Large,Low,General
+Clemson University,Suburban,Mild,Public,Large,Medium,STEM
+Syracuse University,Urban,Snowy,Private,Medium,High,Liberal Arts
+University of Iowa,Urban,Snowy,Public,Large,Medium,General
+University of Connecticut,Suburban,Mild,Public,Large,High,Liberal Arts
+Indiana University Bloomington,Suburban,Mild,Public,Large,Medium,STEM
+University of Pittsburgh,Urban,Snowy,Public,Medium,Medium,Liberal Arts
+University of Colorado Boulder,Suburban,Snowy,Public,Large,Medium,STEM
+University of Missouri,Urban,Mild,Public,Large,Low,General
+University of Kentucky,Suburban,Mild,Public,Medium,Medium,Liberal Arts
+Auburn University,Suburban,Mild,Public,Medium,Medium,Liberal Arts
+Iowa State University,Rural,Snowy,Public,Large,Low,STEM
+University of Nebraska-Lincoln,Suburban,Mild,Public,Large,Medium,General
+University of South Carolina,Urban,Mild,Public,Large,Low,General
+Washington State University,Rural,Snowy,Public,Medium,Low,STEM
+Virginia Tech,Suburban,Mild,Public,Large,Medium,STEM
+Oregon State University,Rural,Mild,Public,Medium,Low,STEM
+Colorado State University,Suburban,Snowy,Public,Large,Medium,STEM
+Oklahoma State University,Rural,Mild,Public,Medium,Low,General
+University of Kansas,Urban,Mild,Public,Large,Low,General
+Kansas State University,Rural,Mild,Public,Medium,Low,STEM
+Mississippi State University,Rural,Mild,Public,Medium,Low,STEM
+University of Alabama,Suburban,Mild,Public,Large,Low,General
+University of Mississippi,Suburban,Mild,Public,Medium,Medium,Liberal Arts
+University of Arkansas,Rural,Mild,Public,Large,Low,General
+Louisiana State University,Suburban,Mild,Public,Large,Low,General
