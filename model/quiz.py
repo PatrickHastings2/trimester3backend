@@ -15,3 +15,14 @@ college_data['Public/Private'] = encoder.fit_transform(college_data['Public/Priv
 college_data['Population Size'] = encoder.fit_transform(college_data['Population Size'])
 college_data['Tuition Preference'] = encoder.fit_transform(college_data['Tuition Preference'])
 college_data['Orientation'] = encoder.fit_transform(college_data['Orientation'])
+
+# Hypothetical target: Let's say 1 if 'Public/Private' is Public and 'Tuition Preference' is low, else 0
+college_data['Target'] = (college_data['Public/Private'] == 1) & (college_data['Tuition Preference'] == 0)
+
+
+# Features and target
+X = college_data[['Location', 'Weather', 'Public/Private', 'Population Size', 'Tuition Preference', 'Orientation']]
+y = college_data['Target']
+
+# Split data
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42)
