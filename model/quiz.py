@@ -26,3 +26,13 @@ y = college_data['Target']
 
 # Split data
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42)
+
+
+# Classifier
+classifier = RandomForestClassifier(n_estimators=100, random_state=42)
+classifier.fit(X_train, y_train)
+y_pred = classifier.predict(X_test)
+
+# Accuracy
+accuracy = accuracy_score(y_test, y_pred)
+print('Model Accuracy:', accuracy)
